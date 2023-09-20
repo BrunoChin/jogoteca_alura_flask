@@ -1,0 +1,5 @@
+SGBD='mysql+mysqlconnector'
+user='root'
+password='1234'
+server='localhost'
+database='jogoteca'
